@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
-
-import unittest
 from selenium import webdriver
-driver = webdriver.Chrome("C:\Users\mybrowser")
+import unittest
+driver = webdriver.Chrome("C:\Python27\Scripts/")
 
 class NewVisitorTest(unittest.TestCase):
 
