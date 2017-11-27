@@ -1,2 +1,2 @@
-"-r base.txt" 
-"selenium==3.7.0" 
+-r base.txt
+selenium==3.7.0
