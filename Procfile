@@ -1,1 +1,1 @@
-web: gunicorn youthZone.wsgi:applicagit tion
+web: gunicorn youthZone.wsgi:application
