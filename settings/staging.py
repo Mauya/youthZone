@@ -24,3 +24,6 @@ LOGGING = {
         },
     },
 }
+
+SITE_URL = os.environ['https://theyouthzone.herokuapp.com/']
+ALLOWED_HOSTS.append(os.environ['https://theyouthzone.herokuapp.com/'])
