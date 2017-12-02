@@ -2,4 +2,3 @@ Django==1.11.7
 pytz==2017.3
 selenium==3.7.0
 sqlparse==0.2.4
-gunicorn==19.4
